@@ -23,6 +23,8 @@ public class Role {
     @NotBlank
     private String name;
 
+    private String token;
+
 
 
 
